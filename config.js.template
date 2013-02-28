@@ -1,0 +1,5 @@
+#rename me to config.js
+exports.accessKeyId= "AWSID";
+exports.secretAccessKey= "AWSKEY";
+exports.region="us-east-1";
+exports.awsAccountId="AWS_ACCOUNT_ID";
